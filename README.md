@@ -102,11 +102,3 @@ Test Issue Management: Ensures that issues can be created, updated, and associat
 ![Screenshot (688)](https://github.com/user-attachments/assets/922fec91-ca63-4825-a5a4-48959f0a22ca)
 ![Screenshot (689)](https://github.com/user-attachments/assets/be19a556-d981-4d9f-bd1b-19d8772a9adf)
 
-
-
-### Notes
-
-- Make sure to replace `https://github.com/yourusername/Delivery-Management-System.git` with your actual repository URL.
-- Update email and contact details to reflect your actual contact information.
-
-This structure will help users understand how to set up, use, and contribute to your project.
